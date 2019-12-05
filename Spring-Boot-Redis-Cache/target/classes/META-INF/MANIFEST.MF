@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: redis-cache-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: patro
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/redis-cache-demo
+Created-By: Maven Integration for Eclipse
+
